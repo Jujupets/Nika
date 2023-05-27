@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+#box {
+  width: 150px;
+  height: 170px;
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe,
+    -20px -20px 60px #ffffff;
+  margin: 10px;
+}
+
+#screen {
+  width: 390px;
+  height: 844px;
+  border-radius: 30px;
+  background: #212121;
+  box-shadow: 15px 15px 30px rgb(25, 25, 25),
+    -15px -15px 30px rgb(60, 60, 60);
+}
+
+#image {
+  margin: 5px;
+}
